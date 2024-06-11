@@ -1,0 +1,49 @@
+footer{
+    background-color: #011432;
+    padding: 20px;
+    padding: 30px 50px;
+    color: white;
+}
+.footer{
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.footer h5{
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+.footer .info{
+    margin-top: -20px;
+}
+.footer .medsos{
+    display: flex;
+    column-gap: 0.7rem; 
+}
+.footer .medsos img{
+    width: 25px;
+}
+.footer .info p{
+    letter-spacing: 1px;
+    line-height: 20px;
+    font-size: 13px;
+}
+.footer .info a{
+    color: white;
+    font-size: 13px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+}
+.border{
+    margin: 40px auto;
+    width: 60%;
+    border: 1px solid white;
+}
+.crg{
+    text-align: center;
+    font-size: 13px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
