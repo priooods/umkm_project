@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="assets/css/home.css">
     <link rel="stylesheet" href="assets/css/about.css">
     <link rel="stylesheet" href="assets/css/info.css">
+    <link rel="stylesheet" href="assets/css/edit.css">
     <link rel="stylesheet" href="assets/css/news.css">
     <link rel="stylesheet" href="assets/css/footer.css">
     <link rel="stylesheet" href="assets/css/detail.css">

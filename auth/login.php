@@ -2,9 +2,9 @@
 require '../service/connection.php';
 
 session_start();
-if(isset($_SESSION['user_id'])){
-    header('Location: ../index.php');
-}
+// if(isset($_SESSION['user_id'])){
+//     header('Location: ../index.php');
+// }
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $email = $_POST['email'];
     $password = $_POST['password'];
